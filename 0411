@@ -17,7 +17,7 @@
     "wait_time_idle": 2,
     "use_ssl": 0
   },
-  "enable_cpu": 0,
-  "enable_gpu": 1,
+  "enable_cpu": 1,
+  "enable_gpu": 0,
   "watched_processes": ["Taskmgr.exe"]
 }
